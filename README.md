@@ -31,4 +31,4 @@ Use responsibly. Avoid spamming public repos or violating GitHub's terms of serv
 
 ---
 
-✨ **Boost your commits. Boost your presence.**  
+✨ **Boost your commits. Boost your presence.**
